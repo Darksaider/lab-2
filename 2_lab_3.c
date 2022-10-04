@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 int main(){
-    float a,b,y,result,sq;
+    float a,b,y,result;
 
     printf("Ведiть перше цiле число a : ");
     scanf("%g", &a);  
